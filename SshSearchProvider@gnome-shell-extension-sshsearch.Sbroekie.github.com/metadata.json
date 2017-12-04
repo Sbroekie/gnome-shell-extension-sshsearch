@@ -1,0 +1,10 @@
+{
+  "name": "SSH Search Provider", 
+  "description": "Provide search results of SSH connections for your shell overview",
+  "shell-version": [
+    "3.26.1"
+  ], 
+  "url": "https://github.com/Sbroekie/gnome-shell-extension-sshsearch", 
+  "uuid": "SshSearchProvider@gnome-shell-extension-sshsearch.Sbroekie.github.com", 
+  "version": 1
+}
